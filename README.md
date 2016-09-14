@@ -17,3 +17,8 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 
 - [now-client](https://github.com/zeit/now-client) - The **official** JavaScript client for ZEIT's API.
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - A JavaScript client for managing your ZEIT account.
+
+## Contribute
+
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account and then [clone](https://help.github.com/articles/cloning-a-repository/) it to your local device
+2. Start making changes!

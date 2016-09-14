@@ -17,3 +17,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 
 - [now-client](https://github.com/zeit/now-client) - The **official** JavaScript client for ZEIT's API.
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - A JavaScript client for managing your ZEIT account.
+
+### Articles
+
+- [The real-time philosophy behind Zeit](https://getputpost.co/the-real-time-philosophy-behind-zeit-e2f157ac0f66#.v8qqspbeb)

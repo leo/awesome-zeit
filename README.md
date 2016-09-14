@@ -15,7 +15,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 
 ### API clients
 
-- [now-client](https://github.com/zeit/now-client) - The **official** JavaScript client for ZEIT's API.
+- [now-client](https://github.com/zeit/now-client) - *official* - ZEIT's JavaScript client for their API.
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - A JavaScript client for managing your ZEIT account.
 
 ## Contribute

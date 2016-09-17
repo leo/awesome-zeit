@@ -18,6 +18,10 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-client](https://github.com/zeit/now-client) - *official* - ZEIT's JavaScript client for their API.
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your ZEIT account.
 
+### Related lists
+
+- [awesome-hyperterm](https://github.com/bnb/awesome-hyperterm) - Delightful HyperTerm plugins, themes, and resources
+
 ## Contribute
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account and then [clone](https://help.github.com/articles/cloning-a-repository/) it to your local device

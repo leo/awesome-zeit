@@ -8,6 +8,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 
 - [now-realias](https://github.com/remy/now-realias) - Automatically assign the latest alias of a now deployment to the newest instance.
 - [now-pipeline](https://github.com/bahmutov/now-pipeline) - Single command to deploy, run e2e tests and switch alias if tests pass.
+- [now-serve](https://github.com/zeit/now-serve) - Sub command for deploying static sites on now.
 
 ### Boilerplates
 

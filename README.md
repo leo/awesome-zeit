@@ -13,12 +13,12 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-go](https://github.com/amio/now-go) - Create & Deploy a personal tinyurl service in 1 minute.
 - [create-react-app-now](https://github.com/xkawi/create-react-app-now) - Easily deploy react.js applications with now.
 
-### API clients
+### API Clients
 
 - [now-client](https://github.com/zeit/now-client) - *official* - ZEIT's JavaScript client for their API.
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your ZEIT account.
 
-### Related lists
+### Related Lists
 
 - [awesome-hyperterm](https://github.com/bnb/awesome-hyperterm) - Delightful HyperTerm plugins, themes, and resources
 

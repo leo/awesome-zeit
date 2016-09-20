@@ -10,7 +10,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-pipeline](https://github.com/bahmutov/now-pipeline) - Single command to deploy, run e2e tests and switch alias if tests pass.
 - [now-serve](https://github.com/zeit/now-serve) - *official* - Sub command for deploying static sites on now.
 
-### Deployments 
+### Deployment Examples
 
 - [cors](https://cors.now.sh) - [📖](https://github.com/hemanth/cors-now) reverse proxy with CORS headers.
 - [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) simple echo web-socket. 

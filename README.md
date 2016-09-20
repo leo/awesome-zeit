@@ -12,8 +12,8 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 
 ### Deployment Examples
 
-- [cors](https://cors.now.sh) - [📖](https://github.com/hemanth/cors-now) reverse proxy with CORS headers.
-- [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) simple echo web-socket. 
+- [cors](https://cors.now.sh) - [📖](https://github.com/hemanth/cors-now) - Reverse proxy with CORS headers.
+- [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) - Simple echo web-socket. 
 
 ### Boilerplates
 

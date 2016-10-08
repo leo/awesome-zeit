@@ -34,7 +34,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 
 ### Related Lists
 
-- [awesome-hyperterm](https://github.com/bnb/awesome-hyperterm) - Delightful HyperTerm plugins, themes, and resources
+- [awesome-hyper](https://github.com/bnb/awesome-hyper) - Delightful Hyper plugins, themes, and resources
 
 ## Contribute
 

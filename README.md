@@ -19,8 +19,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 ### Deployment Examples
 
 - [cors](https://cors.now.sh) - [📖](https://github.com/hemanth/cors-now) - Reverse proxy with CORS headers.
-- [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) - Simple echo web-socket. 
-- [react-router](https://react-router.now.sh/) - [📖](https://github.com/ReactTraining/react-router/)  - Declarative routing for React.
+- [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) - Simple echo web-socket.
 
 ### Boilerplates
 

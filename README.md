@@ -20,6 +20,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 
 - [cors](https://cors.now.sh) - [📖](https://github.com/hemanth/cors-now) - Reverse proxy with CORS headers.
 - [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) - Simple echo web-socket.
+- [app/api](https://app.l3.wtf) - [📖](https://github.com/mbilokonsky/now-service-example) - A (comically) simple app consisting of two `now` deployments, a front-end static html file and a `micro` api it hits.
 
 ### Boilerplates
 

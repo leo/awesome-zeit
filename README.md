@@ -15,6 +15,11 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [micro-compress](https://github.com/joakimbeng/micro-compress) - Compression for HTTP microservices built with [Micro](https://github.com/zeit/micro)
 - [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Share a folder of images. Heavily inspired by [list](https://github.com/zeit/micro-list)
 
+### Services
+
+- [deploy.now.sh](https://deploy.now.sh) - Deploy git repos to now with the click of a button
+- [stage.now.sh](https://stage.now.sh) - Automatically create staging environments from GitHub pull request.
+
 ### Deployment Examples
 
 - [cors](https://cors.now.sh) - [📖](https://github.com/hemanth/cors-now) - Reverse proxy with CORS headers.

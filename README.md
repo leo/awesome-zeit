@@ -38,6 +38,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 
 - [now-go](https://github.com/amio/now-go) - Create & Deploy a personal tinyurl service in 1 minute.
 - [create-react-app-now](https://github.com/xkawi/create-react-app-now) - Easily deploy react.js applications with now.
+- [micro-graphql](https://github.com/timneutkens/micro-graphql) - Create an express-graphql server with Micro
 
 ### API Clients
 

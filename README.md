@@ -4,6 +4,14 @@
 
 In the area of open source, there's a lot of stuff happening around [ZEIT](https://zeit.co). To make it easier for developers to reach these resources, I've decided to create a list for them. And here we are!
 
+- [Helpers](#helpers)
+- [Libraries](#libraries)
+- [Services](#services)
+- [Deployment Examples](#deployment-examples)
+- [Boilerplates](#boilerplates)
+- [API Clients](#api-clients)
+- [Related Lists](#related-lists)
+
 ### Helpers
 
 - [now-realias](https://github.com/remy/now-realias) - Automatically assign the latest alias of a now deployment to the newest instance.

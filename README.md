@@ -24,6 +24,8 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Share a folder of images. Heavily inspired by [list](https://github.com/zeit/micro-list)
 - [micro-route](https://github.com/dotcypress/micro-route) - Tiny http routing helper.
 - [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for [Micro](https://github.com/zeit/micro).
+- [micro-get](https://github.com/romuloalves/micro-get) - Only accepts GET request for microservices built with [Micro](https://github.com/zeit/micro).
+- [micro-post](https://github.com/romuloalves/micro-post) - Only accepts POST request for microservices built with [Micro](https://github.com/zeit/micro).
 
 ### Services
 

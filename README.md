@@ -17,7 +17,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-realias](https://github.com/remy/now-realias) - Automatically assign the latest alias of a now deployment to the newest instance.
 - [now-pipeline](https://github.com/bahmutov/now-pipeline) - Single command to deploy, run e2e tests and switch alias if tests pass.
 - [now-redirect](https://github.com/vdanchenkov/now-redirect) - Easily deploy a redirect like `www.domain.com` to `domain.com`
-- [zeit-deployments](https://github.com/pranaygp/zeit-deployments) - Deploy a tiny next.js app to now that lists all your now deployments. 
+- [zeit-deployments](https://github.com/pranaygp/zeit-deployments) - Deploy a tiny next.js app to now that lists all your now deployments.
 
 ### Libraries
 
@@ -38,7 +38,8 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [cors](https://cors.now.sh) - [📖](https://github.com/hemanth/cors-now) - Reverse proxy with CORS headers.
 - [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) - Simple echo web-socket.
 - [app/api](https://app.l3.wtf) - [📖](https://github.com/mbilokonsky/now-service-example) - A (comically) simple app consisting of two `now` deployments, a front-end static html file and a `micro` api it hits.
-- [micro-link](https://micro-link.now.sh) - [📖](https://github.com/xkawi/micro-link) - a minimalistic microservice to generate and resolve sharable dynamic link (a.k.a deeplink)
+- [micro-link](https://micro-link.now.sh) - [📖](https://github.com/xkawi/micro-link) - A minimalistic microservice to generate and resolve sharable dynamic link (a.k.a deeplink)
+- [image-upload](https://getexponent.com/@community/image-upload-example) - [📖](https://github.com/exponentjs/image-upload-example) - Demonstration of how to upload images from the ImagePicker
 
 ### Boilerplates
 

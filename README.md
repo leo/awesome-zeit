@@ -14,7 +14,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 
 ### Helpers
 
-- [now-realias](https://github.com/remy/now-realias) - Automatically assign the latest alias of a now deployment to the newest instance.
+- [now-no-alias](https://github.com/remy/now-no-alias) - CLI tool for now to list idle deploys (with no active aliases).
 - [now-pipeline](https://github.com/bahmutov/now-pipeline) - Single command to deploy, run e2e tests and switch alias if tests pass.
 - [now-redirect](https://github.com/vdanchenkov/now-redirect) - Easily deploy a redirect like `www.domain.com` to `domain.com`
 - [zeit-deployments](https://github.com/pranaygp/zeit-deployments) - Deploy a tiny next.js app to now that lists all your now deployments.

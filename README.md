@@ -48,9 +48,10 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 
 ### Boilerplates
 
+- [micro-rest](https://github.com/hyperfuse/micro-rest) - Easily deploy micro REST services.
+- [micro-graphql](https://github.com/hyperfuse/micro-graphql) - Easily deploy micro GraphQL services.
 - [now-go](https://github.com/amio/now-go) - Create & Deploy a personal tinyurl service in 1 minute.
 - [create-react-app-now](https://github.com/xkawi/create-react-app-now) - Easily deploy react.js applications with now.
-- [micro-graphql](https://github.com/timneutkens/micro-graphql) - Create an express-graphql server with Micro.
 - [create-micro](https://github.com/romuloalves/create-micro) - Create a basic micro-based service.
 
 ### API Clients

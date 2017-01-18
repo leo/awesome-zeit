@@ -52,7 +52,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [micro-graphql](https://github.com/hyperfuse/micro-graphql) - Easily deploy micro GraphQL services.
 - [now-go](https://github.com/amio/now-go) - Create & Deploy a personal tinyurl service in 1 minute.
 - [create-react-app-now](https://github.com/xkawi/create-react-app-now) - Easily deploy react.js applications with now.
-- [create-micro](https://github.com/romuloalves/create-micro) - Create a basic micro-based service.
+- [micro-graphql](https://github.com/hyperfuse/micro-graphql) - Easily deploy micro GraphQL services. For an example of using GraphQL with Micro see [micro-graphql-example](https://www.github.com/timneutkens/micro-graphql)
 
 ### API Clients
 

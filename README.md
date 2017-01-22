@@ -32,6 +32,8 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [micro-api](https://github.com/possibilities/micro-api) - Minimal routing layer for building JSON APIs with micro.
 - [fs-router](https://github.com/jesseditson/fs-router) - Next.js-style transparent router for micro
 - [micro-analytics](https://github.com/mxstbr/micro-analytics) - Public analytics as a Node.js microservice, no sysadmin experience required. 
+- [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [Micro](https://github.com/zeit/micro) with [Boom](https://github.com/onbjerg/micro-boom) for standard error output.
+- [micro-visualize](https://github.com/onbjerg/micro-visualize) - Development tool that visualizes requests and responses for services written with [Micro](https://github.com/zeit/micro).
 
 ### Services
 

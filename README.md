@@ -57,6 +57,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [micro-graphql](https://github.com/hyperfuse/micro-graphql) - Easily deploy micro GraphQL services. For an example of using GraphQL with Micro see [micro-graphql-example](https://www.github.com/timneutkens/micro-graphql)
 - [create-micro](https://github.com/romuloalves/create-micro) - Create a basic micro-based service.
 - [meteor-now](https://github.com/mazlix/meteor-now) - Deploy MeteorJS apps in one line through now.
+- [next-new](https://github.com/ntwcklng/next-new) - CLI that scaffolds a simple next.js project structure to get started quickly
 
 ### API Clients
 

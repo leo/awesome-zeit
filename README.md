@@ -10,6 +10,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [Deployment Examples](#deployment-examples)
 - [Boilerplates](#boilerplates)
 - [API Clients](#api-clients)
+- [Now.sh Showcase(#nowsh-showcase)
 - [Related Lists](#related-lists)
 
 ### Helpers
@@ -65,6 +66,19 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-client](https://github.com/zeit/now-client) - *official* - ZEIT's JavaScript client for their API.
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your ZEIT account.
 - [pynow](https://github.com/controversial/pynow) - A python client for the ZEIT API.
+
+### Now.sh Showcase
+
+- [illustrated-algorithms.now.sh](https://illustrated-algorithms.now.sh/) - This project aims to reveal the mechanics behind algorithms via interactive visualizations of their execution.
+- [next-news.now.sh](https://next-news.now.sh/) - Hacker News made with next.js
+- [login-with.now.sh](https://login-with.now.sh/) - Stateless authentication microservice for Twitter, Facebook, Reddit, Google & GitHub
+- [color.now.sh](https://color.now.sh/) - Color API. A simple micro-service for color functions
+- [colors.now.sh](https://colors.now.sh/) - A Material Design color browser and picker
+- [snippets.now.sh](https://snippets.now.sh/) - Sublime Text, Atom & VS Code snippet generator
+- [programmersclipboard.now.sh](https://programmersclipboard.now.sh/) - Copy & paste common glyphs used in programming
+- [rainbow.now.sh](https://rainbow.now.sh) - A Material Design and Flat Design colour picker
+- [xvg.now.sh/](https://xvg.now.sh/) - A Chrome extension for debugging SVG paths
+- [newton.now.sh/](https://newton.now.sh/) - A really micro micro-service for advanced math
 
 ### Related Lists
 

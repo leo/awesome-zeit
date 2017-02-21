@@ -10,7 +10,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [Deployment Examples](#deployment-examples)
 - [Boilerplates](#boilerplates)
 - [API Clients](#api-clients)
-- [Now.sh Showcase(#nowsh-showcase)
+- [Now.sh Showcase](#nowsh-showcase)
 - [Related Lists](#related-lists)
 
 ### Helpers

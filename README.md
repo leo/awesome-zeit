@@ -10,7 +10,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [Deployment Examples](#deployment-examples)
 - [Boilerplates](#boilerplates)
 - [API Clients](#api-clients)
-- [Now.sh Showcase](#nowsh-showcase)
+- [Now Showcase](#now-showcase)
 - [Related Lists](#related-lists)
 
 ### Helpers
@@ -32,7 +32,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [micro-post](https://github.com/romuloalves/micro-post) - Only accepts POST request for microservices built with [Micro](https://github.com/zeit/micro).
 - [micro-api](https://github.com/possibilities/micro-api) - Minimal routing layer for building JSON APIs with micro.
 - [fs-router](https://github.com/jesseditson/fs-router) - Next.js-style transparent router for micro
-- [micro-analytics](https://github.com/mxstbr/micro-analytics) - Public analytics as a Node.js microservice, no sysadmin experience required. 
+- [micro-analytics](https://github.com/mxstbr/micro-analytics) - Public analytics as a Node.js microservice, no sysadmin experience required.
 - [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [Micro](https://github.com/zeit/micro) with [Boom](https://github.com/onbjerg/micro-boom) for standard error output.
 - [micro-visualize](https://github.com/onbjerg/micro-visualize) - Development tool that visualizes requests and responses for services written with [Micro](https://github.com/zeit/micro).
 - [next-routes](https://github.com/fridays/next-routes) - Universal named routes for [next.js](https://github.com/zeit/next.js)
@@ -67,7 +67,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your ZEIT account.
 - [pynow](https://github.com/controversial/pynow) - A python client for the ZEIT API.
 
-### Now.sh Showcase
+### Now Showcase
 
 - [illustrated-algorithms.now.sh](https://illustrated-algorithms.now.sh/) - This project aims to reveal the mechanics behind algorithms via interactive visualizations of their execution.
 - [next-news.now.sh](https://next-news.now.sh/) - Hacker News made with next.js

@@ -77,8 +77,10 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [snippets.now.sh](https://snippets.now.sh/) - Sublime Text, Atom & VS Code snippet generator
 - [programmersclipboard.now.sh](https://programmersclipboard.now.sh/) - Copy & paste common glyphs used in programming
 - [rainbow.now.sh](https://rainbow.now.sh) - A Material Design and Flat Design colour picker
-- [xvg.now.sh/](https://xvg.now.sh/) - A Chrome extension for debugging SVG paths
-- [newton.now.sh/](https://newton.now.sh/) - A really micro micro-service for advanced math
+- [xvg.now.sh](https://xvg.now.sh/) - A Chrome extension for debugging SVG paths
+- [newton.now.sh](https://newton.now.sh/) - A really micro micro-service for advanced math
+- [fe-lenses.now.sh](https://fe-lenses.now.sh/) - A really micro micro-service for advanced math
+- [go.now.sh](https://go.now.sh) - A personal tinyurl service
 
 ### Related Lists
 

@@ -79,7 +79,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [rainbow.now.sh](https://rainbow.now.sh) - A Material Design and Flat Design colour picker
 - [xvg.now.sh](https://xvg.now.sh/) - A Chrome extension for debugging SVG paths
 - [newton.now.sh](https://newton.now.sh/) - A really micro micro-service for advanced math
-- [fe-lenses.now.sh](https://fe-lenses.now.sh/) - A really micro micro-service for advanced math
+- [fe-lenses.now.sh](https://fe-lenses.now.sh/) - Full-frame E-mount lenses catalog
 - [go.now.sh](https://go.now.sh) - A personal tinyurl service
 
 ### Related Lists

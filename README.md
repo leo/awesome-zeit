@@ -31,6 +31,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [micro-get](https://github.com/romuloalves/micro-get) - Only accepts GET request for microservices built with [Micro](https://github.com/zeit/micro).
 - [micro-post](https://github.com/romuloalves/micro-post) - Only accepts POST request for microservices built with [Micro](https://github.com/zeit/micro).
 - [micro-api](https://github.com/possibilities/micro-api) - Minimal routing layer for building JSON APIs with micro.
+- [micro-cors](https://github.com/possibilities/micro-cors) - Simple [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) middleware for micro
 - [fs-router](https://github.com/jesseditson/fs-router) - Next.js-style transparent router for micro
 - [micro-analytics](https://github.com/mxstbr/micro-analytics) - Public analytics as a Node.js microservice, no sysadmin experience required.
 - [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [Micro](https://github.com/zeit/micro) with [Boom](https://github.com/onbjerg/micro-boom) for standard error output.

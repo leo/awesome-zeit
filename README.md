@@ -61,6 +61,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [create-micro](https://github.com/romuloalves/create-micro) - Create a basic micro-based service.
 - [meteor-now](https://github.com/mazlix/meteor-now) - Deploy MeteorJS apps in one line through now.
 - [nuxt-micro-template](https://github.com/vuchl/nuxt-micro-template) - Scaffold for vue-cli to create [nuxt](https://github.com/nuxt/nuxt.js) apps with a [micro](https://github.com/zeit/micro) backend
+- [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) - [micro](https://github.com/zeit/micro) starter kit with built in authentication using `bcrypt` and `jsonwebtokens`
 
 ### API Clients
 

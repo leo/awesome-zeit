@@ -67,6 +67,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-client](https://github.com/zeit/now-client) - *official* - ZEIT's JavaScript client for their API.
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your ZEIT account.
 - [pynow](https://github.com/controversial/pynow) - A python client for the ZEIT API.
+- [nash](https://github.com/littleStudent/now_dashboard) - A web [dashboard](https://nash.now.sh) to manage deployments, aliases and secrets.
 
 ### Now Showcase
 

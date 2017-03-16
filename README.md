@@ -82,6 +82,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [newton.now.sh](https://newton.now.sh/) - A really micro micro-service for advanced math
 - [fe-lenses.now.sh](https://fe-lenses.now.sh/) - Full-frame E-mount lenses catalog
 - [go.now.sh](https://go.now.sh) - A personal tinyurl service
+- [gif.now.sh](https://gif.now.sh) - A simple micro-service for Giphy's Translate API
 
 ### Related Lists
 

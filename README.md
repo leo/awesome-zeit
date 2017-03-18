@@ -85,6 +85,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [up.now.sh](https://up.now.sh/) - A microservice for checking whether a website is up
 - [e.now.sh](https://e.now.sh/) - A microservice for serving, listing and searching for emoji
 - [f.now.sh](https://f.now.sh/) - A microservice for getting a flag icon by country code
+- [gif.now.sh](https://gif.now.sh) - A simple micro-service for Giphy's Translate API
 
 ### Related Lists
 

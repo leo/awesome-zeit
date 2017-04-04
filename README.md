@@ -39,6 +39,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [micro-visualize](https://github.com/onbjerg/micro-visualize) - Development tool that visualizes requests and responses for services written with [Micro](https://github.com/zeit/micro).
 - [next-routes](https://github.com/fridays/next-routes) - Universal named routes for [next.js](https://github.com/zeit/next.js)
 - [micro-jwt-auth](https://github.com/kandros/micro-jwt-auth) - json web token(jwt) authorization wrapper for [Micro](https://github.com/zeit/micro)
+- [next-github-auth](https://github.com/possibilities/next-github-auth) - Components and decorators for using Github authentication with Next.js
 
 ### Services
 

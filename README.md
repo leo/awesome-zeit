@@ -55,6 +55,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your ZEIT account.
 - [pynow](https://github.com/controversial/pynow) - A python client for the ZEIT API.
 - [nash](https://github.com/littleStudent/now_dashboard) - A web [dashboard](https://nash.now.sh) to manage deployments, aliases and secrets.
+- [now-client-isomorphic](https://github.com/mdaverde/now-client-isomorphic) - isomorphic fork of [Zeit's JavaScript client](https://github.com/zeit/now-client) for their API.
 
 ### Now Showcase
 

@@ -55,6 +55,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your ZEIT account.
 - [pynow](https://github.com/controversial/pynow) - A python client for the ZEIT API.
 - [nash](https://github.com/littleStudent/now_dashboard) - A web [dashboard](https://nash.now.sh) to manage deployments, aliases and secrets.
+- [now-client-isomorphic](https://github.com/mdaverde/now-client-isomorphic) - isomorphic fork of [Zeit's JavaScript client](https://github.com/zeit/now-client) for their API.
 
 ### Now Showcase
 
@@ -77,6 +78,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [emails.now.sh](https://emails.now.sh) - Easily deploy an email delivery service to now
 - [next-time.now.sh](https://next-time.now.sh) ([src](https://github.com/billymoon/next-time)) - A very minimal zeit themed clock (demonstrates isomorphic page rendering)  
 - [georgeo.now.sh](https://github.com/rmpato/georgeo) - A geocoding service with an API and a [web interface](https://georgeo.now.sh)
+- [dash.now.sh](https://dash.now.sh) - [Open source dashboard](https://github.com/mdaverde/now-dashboard) for your ▲ now deployments built on Next.js
 
 ### Related Lists
 

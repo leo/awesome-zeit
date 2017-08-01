@@ -72,6 +72,9 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [xvg.now.sh](https://xvg.now.sh/) - A Chrome extension for debugging SVG paths
 - [newton.now.sh](https://newton.now.sh/) - A really micro micro-service for advanced math
 - [fe-lenses.now.sh](https://fe-lenses.now.sh/) - Full-frame E-mount lenses catalog
+- [shot.now.sh](https://shot.now.sh/) - Screenshot as a Service
+- [mess.now.sh](https://mess.now.sh/) - Obscure text with messed font
+- [md.now.sh](https://md.now.sh/) - Markdown render service
 - [go.now.sh](https://go.now.sh) - A personal tinyurl service
 - [up.now.sh](https://up.now.sh/) - A microservice for checking whether a website is up
 - [e.now.sh](https://e.now.sh/) - A microservice for serving, listing and searching for emoji

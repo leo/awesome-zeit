@@ -84,6 +84,8 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [next-time.now.sh](https://next-time.now.sh) ([src](https://github.com/billymoon/next-time)) - A very minimal zeit themed clock (demonstrates isomorphic page rendering)  
 - [georgeo.now.sh](https://github.com/rmpato/georgeo) - A geocoding service with an API and a [web interface](https://georgeo.now.sh)
 - [platzi-now.now.sh](https://platzi-now.now.sh/) - A Next.js + Docker GraphQL server app deployed to Now.sh using alias path to compose them
+- [micro-github-latest.now.sh](https://micro-github-latest.now.sh/) - [📖](https://github.com/evenchange4/micro-github-latest) - Microservice for downloading the latest asset of GitHub release.
+- [micro-medium-api.now.sh](https://micro-medium-api.now.sh/) - [📖](https://github.com/evenchange4/micro-medium-api) - Microservice for fetching the latest posts of Medium.
 
 ### Related Lists
 

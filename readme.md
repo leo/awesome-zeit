@@ -21,6 +21,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-redirect](https://github.com/vdanchenkov/now-redirect) - Easily deploy a redirect like `www.domain.com` to `domain.com`.
 - [zeit-deployments](https://github.com/pranaygp/zeit-deployments) - Deploy a tiny next.js app to now that lists all your now deployments.
 - [now-env](https://github.com/sergiodxa/now-env) - Use now.json environment variables and secrets in development
+- [timneutkens/now-redirect](https://github.com/timneutkens/now-redirect) - Easily deploy a redirect microservice.
 
 ### Libraries
 

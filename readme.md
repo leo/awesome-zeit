@@ -20,8 +20,9 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-pipeline](https://github.com/bahmutov/now-pipeline) - Single command to deploy, run e2e tests and switch alias if tests pass.
 - [now-redirect](https://github.com/vdanchenkov/now-redirect) - Easily deploy a redirect like `www.domain.com` to `domain.com`.
 - [zeit-deployments](https://github.com/pranaygp/zeit-deployments) - Deploy a tiny next.js app to now that lists all your now deployments.
-- [now-env](https://github.com/sergiodxa/now-env) - Use now.json environment variables and secrets in development
+- [now-env](https://github.com/sergiodxa/now-env) - Use now.json environment variables and secrets in development.
 - [timneutkens/now-redirect](https://github.com/timneutkens/now-redirect) - Easily deploy a redirect microservice.
+- [now-ab](https://github.com/sergiodxa/now-ab) - AB test two or more Now deployments with a simple deploy.
 
 ### Libraries
 

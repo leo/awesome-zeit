@@ -23,6 +23,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-env](https://github.com/sergiodxa/now-env) - Use now.json environment variables and secrets in development.
 - [timneutkens/now-redirect](https://github.com/timneutkens/now-redirect) - Easily deploy a redirect microservice.
 - [now-ab](https://github.com/sergiodxa/now-ab) - AB test two or more Now deployments with a simple deploy.
+- [now-server](https://github.com/markmarijnissen/now-server) - Local development server for alias path.
 
 ### Libraries
 

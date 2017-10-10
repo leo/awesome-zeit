@@ -52,6 +52,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [meteor-now](https://github.com/mazlix/meteor-now) - Deploy MeteorJS apps in one line through now.
 - [nuxt-micro-template](https://github.com/vuchl/nuxt-micro-template) - Scaffold for vue-cli to create [nuxt](https://github.com/nuxt/nuxt.js) apps with a [micro](https://github.com/zeit/micro) backend
 - [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) - [micro](https://github.com/zeit/micro) starter kit with built in authentication using `bcrypt` and `jsonwebtokens`
+- [aframe-next-static](https://github.com/michaltakac/aframe-next-static) - Build WebVR apps with A-frame and React, export and serve them as static sites on ZEIT's Now.
 
 ### API Clients
 

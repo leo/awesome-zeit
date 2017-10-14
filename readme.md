@@ -62,6 +62,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [nash](https://github.com/littleStudent/now_dashboard) - A web [dashboard](https://nash.now.sh) to manage deployments, aliases and secrets.
 - [now4j](https://github.com/rm3l/now4j) - Unofficial Java client for the ZEIT API
 - [know](https://github.com/rm3l/know) - Unofficial Kotlin client for the ZEIT API
+- [now-php-client](https://github.com/joecohens/now-php-client) - Unofficial PHP 5.4+ client for the Now API
 
 ### Now Showcase
 

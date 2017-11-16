@@ -45,6 +45,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 ### Boilerplates
 
 - [micro-rest](https://github.com/hyperfuse/micro-rest) - Easily deploy micro REST services.
+- [datasette](https://github.com/simonw/datasette) - Instantly deploy a SQLite database as a JSON API, e.g. https://australian-dogs.now.sh/
 - [now-go](https://github.com/amio/now-go) - Create & Deploy a personal tinyurl service in 1 minute.
 - [create-react-app-now](https://github.com/xkawi/create-react-app-now) - Easily deploy react.js applications with now.
 - [micro-graphql](https://github.com/hyperfuse/micro-graphql) - Easily deploy micro GraphQL services. For an example of using GraphQL with Micro see [micro-graphql-example](https://www.github.com/timneutkens/micro-graphql)

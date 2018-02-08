@@ -33,6 +33,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 
 - [deploy.now.sh](https://deploy.now.sh) - Deploy git repos to now with the click of a button.
 - [stage.now.sh](https://stage.now.sh) - Automatically create staging environments from GitHub pull request.
+- [pullmeapp](https://github.com/ricardocasares/pullmeapp) - Stage your GitHub pull requests with personalized aliases.
 
 ### Deployment Examples
 

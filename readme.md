@@ -57,6 +57,8 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [aframe-next-static](https://github.com/michaltakac/aframe-next-static) - Build WebVR apps with A-frame and React, export and serve them as static sites on ZEIT's Now.
 - [next-init](https://www.npmjs.com/package/next-init) - Simplest next.js generator.
 - [next.js-typescript-starter-kit](https://github.com/deptno/next.js-typescript-starter-kit) - next.js@5 + redux + typescript, simple configuration for SEO, analytics. you can use styled-jsx in tsx.
+- [kap-now](https://github.com/lucaperret/kap-now) - Deploy [Kap](https://github.com/wulkano/kap) capture with now.
+- [drone-now](https://github.com/lucaperret/drone-now) - Deploying to now within [Drone CI](https://drone.io) pipeline.
 
 ### API Clients
 

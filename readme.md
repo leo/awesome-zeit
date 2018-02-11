@@ -96,6 +96,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [micro-github-latest.now.sh](https://micro-github-latest.now.sh/) - [📖](https://github.com/evenchange4/micro-github-latest) - Microservice for downloading the latest asset of GitHub release.
 - [micro-medium-api.now.sh](https://micro-medium-api.now.sh/) - [📖](https://github.com/evenchange4/micro-medium-api) - Microservice for fetching the latest posts of Medium.
 - [now-swift-example.now.sh](https://now-swift-example.now.sh/) - [📖](https://github.com/aranajhonny/now-swift-example) - Example of using server-side Swift + the Kitura framework inside a Docker container deployed to now.sh.
+- [builderbook.org](https://builderbook.org/) - [📖](https://github.com/builderbook/builderbook) - Open source web app to write and host documentation or sell books. Deployed with Now and built with React, Material-UI, Next, Express, Mongoose, MongoDB.
 
 ### Related Lists
 

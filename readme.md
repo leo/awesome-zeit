@@ -57,8 +57,6 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [aframe-next-static](https://github.com/michaltakac/aframe-next-static) - Build WebVR apps with A-frame and React, export and serve them as static sites on ZEIT's Now.
 - [next-init](https://www.npmjs.com/package/next-init) - Simplest next.js generator.
 - [next.js-typescript-starter-kit](https://github.com/deptno/next.js-typescript-starter-kit) - next.js@5 + redux + typescript, simple configuration for SEO, analytics. you can use styled-jsx in tsx.
-- [kap-now](https://github.com/lucaperret/kap-now) - Deploy a [Kapture](https://github.com/wulkano/kap) with Now.
-- [drone-now](https://github.com/lucaperret/drone-now) - Deploying to Now within [Drone CI](https://drone.io) pipeline.
 
 ### API Clients
 
@@ -98,6 +96,10 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [micro-github-latest.now.sh](https://micro-github-latest.now.sh/) - [📖](https://github.com/evenchange4/micro-github-latest) - Microservice for downloading the latest asset of GitHub release.
 - [micro-medium-api.now.sh](https://micro-medium-api.now.sh/) - [📖](https://github.com/evenchange4/micro-medium-api) - Microservice for fetching the latest posts of Medium.
 - [now-swift-example.now.sh](https://now-swift-example.now.sh/) - [📖](https://github.com/aranajhonny/now-swift-example) - Example of using server-side Swift + the Kitura framework inside a Docker container deployed to now.sh.
+- [kap-now](https://github.com/lucaperret/kap-now) - Deploy a [Kapture](https://github.com/wulkano/kap) with Now.
+- [drone-now](https://github.com/lucaperret/drone-now) - Deploying to Now within [Drone CI](https://drone.io) pipeline.
+- [vscode-now](https://github.com/lucaperret/vscode-now) - Create and manage your deployments and aliases within VS Code.
+
 
 ### Related Lists
 

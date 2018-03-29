@@ -12,6 +12,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [API Clients](#api-clients)
 - [Now Showcase](#now-showcase)
 - [Related Lists](#related-lists)
+- [Communities](#communities)
 
 ### Helpers
 
@@ -97,6 +98,8 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [micro-medium-api.now.sh](https://micro-medium-api.now.sh/) - [📖](https://github.com/evenchange4/micro-medium-api) - Microservice for fetching the latest posts of Medium.
 - [now-swift-example.now.sh](https://now-swift-example.now.sh/) - [📖](https://github.com/aranajhonny/now-swift-example) - Example of using server-side Swift + the Kitura framework inside a Docker container deployed to now.sh.
 - [builderbook.org](https://builderbook.org/) - [📖](https://github.com/builderbook/builderbook) - Open source web app to write and host documentation or sell books. Deployed with Now and built with React, Material-UI, Next, Express, Mongoose, MongoDB.
+- [flash.now.sh](https://flash.now.sh/) - A minimal speed reading web app
+- [Pompom timer](https://pompom.now.sh/) - [📖](https://github.com/pantharshit00/pomodoro-gatsby) - Open source pomodoro clock made with react and gatsby. Super fast, mobile friendly, dark themed and works offline. Also has completion notification and alarm
 - [kap-now](https://github.com/lucaperret/kap-now) - Deploy a [Kapture](https://github.com/wulkano/kap) with Now.
 - [drone-now](https://github.com/lucaperret/drone-now) - Deploying to Now within [Drone CI](https://drone.io) pipeline.
 - [vscode-now](https://github.com/lucaperret/vscode-now) - Create and manage your deployments and aliases within VS Code.
@@ -104,6 +107,14 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 ### Related Lists
 
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - Delightful Hyper plugins, themes, and resources.
+
+### Communities
+
+- [now](https://spectrum.chat/now) - now on spectrum
+- [hyper](https://spectrum.chat/hyper) - hyper on spectrum
+- [pkg](https://spectrum.chat/pkg) - pkg on spectrum
+- [next.js](https://spectrum.chat/next-js) - next.js on spectrum
+- [ZEIT](https://spectrum.chat/zeit) - ZEIT on spectrum
 
 ## Contribute
 

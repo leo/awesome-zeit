@@ -12,6 +12,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [API Clients](#api-clients)
 - [Now Showcase](#now-showcase)
 - [Related Lists](#related-lists)
+- [Communities](#communities)
 
 ### Helpers
 
@@ -101,6 +102,14 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 ### Related Lists
 
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - Delightful Hyper plugins, themes, and resources.
+
+### Communities
+
+- [now](https://spectrum.chat/now) - now on spectrum
+- [hyper](https://spectrum.chat/hyper) - hyper on spectrum
+- [pkg](https://spectrum.chat/pkg) - pkg on spectrum
+- [next.js](https://spectrum.chat/next-js) - next.js on spectrum
+- [ZEIT](https://spectrum.chat/zeit) - ZEIT on spectrum
 
 ## Contribute
 

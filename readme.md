@@ -103,6 +103,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [kap-now](https://github.com/lucaperret/kap-now) - Deploy a [Kapture](https://github.com/wulkano/kap) with Now.
 - [drone-now](https://github.com/lucaperret/drone-now) - Deploying to Now within [Drone CI](https://drone.io) pipeline.
 - [vscode-now](https://github.com/lucaperret/vscode-now) - Create and manage your deployments and aliases within VS Code.
+- [SaaS boilerplate](https://github.com/async-labs/saas) - Open source web app to quickly build your own SaaS product. Prepared for easy deployment to Now. Built with React, Material-UI, Next, MobX, Express, Mongoose, MongoDB, TypeScript.
 
 ### Related Lists
 

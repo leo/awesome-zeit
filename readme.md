@@ -103,6 +103,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [kap-now](https://github.com/lucaperret/kap-now) - Deploy a [Kapture](https://github.com/wulkano/kap) with Now.
 - [drone-now](https://github.com/lucaperret/drone-now) - Deploying to Now within [Drone CI](https://drone.io) pipeline.
 - [vscode-now](https://github.com/lucaperret/vscode-now) - Create and manage your deployments and aliases within VS Code.
+- [releasebutler.now.sh](https://releasebutler.now.sh/) - Get releases & changelogs of popular frontend frameworks & libraries!
 
 ### Related Lists
 

@@ -43,6 +43,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [app/api](https://app.l3.wtf) - [📖](https://github.com/mbilokonsky/now-service-example) - A (comically) simple app consisting of two `now` deployments, a front-end static html file and a `micro` api it hits.
 - [micro-link](https://micro-link.now.sh) - [📖](https://github.com/xkawi/micro-link) - A minimalistic microservice to generate and resolve sharable dynamic link (a.k.a deeplink).
 - [image-upload](https://getexponent.com/@community/image-upload-example) - [📖](https://github.com/exponentjs/image-upload-example) - Demonstration of how to upload images from the ImagePicker.
+- [typescript-monorepo-next-example](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 
 ### Boilerplates
 
@@ -57,7 +58,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) - [micro](https://github.com/zeit/micro) starter kit with built in authentication using `bcrypt` and `jsonwebtokens`
 - [aframe-next-static](https://github.com/michaltakac/aframe-next-static) - Build WebVR apps with A-frame and React, export and serve them as static sites on ZEIT's Now.
 - [next-init](https://www.npmjs.com/package/next-init) - Simplest next.js generator.
-- [next.js-typescript-starter-kit](https://github.com/deptno/next.js-typescript-starter-kit) - next.js@5 + redux + typescript, simple configuration for SEO, analytics. you can use styled-jsx in tsx.
+- [next.js-typescript-starter-kit](https://github.com/deptno/next.js-typescript-starter-kit) - next.js + redux + typescript, simple configuration for SEO, analytics. you can use styled-jsx in tsx.
 
 ### API Clients
 

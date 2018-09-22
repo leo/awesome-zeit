@@ -25,6 +25,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [timneutkens/now-redirect](https://github.com/timneutkens/now-redirect) - Easily deploy a redirect microservice.
 - [now-ab](https://github.com/sergiodxa/now-ab) - AB test two or more Now deployments with a simple deploy.
 - [now-server](https://github.com/markmarijnissen/now-server) - Local development server for alias path.
+- [now-token](https://github.com/shawnbot/now-token) - Painlessly access your ZEIT API access token from Node or the command line.
 
 ### Libraries
 
@@ -61,8 +62,9 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 
 ### API Clients
 
-- [now-client](https://github.com/zeit/now-client) - *official* - ZEIT's JavaScript client for their API.
+- [now-client](https://github.com/zeit/now-client) - *deprecated* - ZEIT's JavaScript client for their API.
 - [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your ZEIT account.
+- [now-fetch](https://github.com/shawnbot/now-fetch) - A lightweight ZEIT API wrapper with the familiar `fetch()` interface.
 - [pynow](https://github.com/controversial/pynow) - A python client for the ZEIT API.
 - [nash](https://github.com/littleStudent/now_dashboard) - A web [dashboard](https://nash.now.sh) to manage deployments, aliases and secrets.
 - [now4j](https://github.com/rm3l/now4j) - Unofficial Java client for the ZEIT API

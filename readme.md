@@ -112,9 +112,9 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 
 ### Communities
 
-- [now](https://spectrum.chat/now) - now on spectrum
-- [hyper](https://spectrum.chat/hyper) - hyper on spectrum
-- [pkg](https://spectrum.chat/pkg) - pkg on spectrum
+- [now](https://spectrum.chat/zeit/now) - now on spectrum
+- [hyper](https://spectrum.chat/zeit/hyper) - hyper on spectrum
+- [pkg](https://spectrum.chat/zeit/pkg) - pkg on spectrum
 - [next.js](https://spectrum.chat/next-js) - next.js on spectrum
 - [ZEIT](https://spectrum.chat/zeit) - ZEIT on spectrum
 

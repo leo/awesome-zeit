@@ -106,6 +106,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [releasebutler.now.sh](https://releasebutler.now.sh/) - Get releases & changelogs of popular frontend frameworks & libraries!
 - [carbon.now.sh](https://carbon.now.sh/) - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started.
 - [iss.now.sh](https://iss.now.sh) - Service to receive push notifications when the ISS passes above you
+- [circleci-artifacts.now.sh](https://circleci-artifacts.now.sh/) - Permanent link for redirecting to your latest CircleCI build artifacts, so you could host binaries, documentation and other files right from your project's Circle CI jobs.
 
 ### Related Lists
 
@@ -113,9 +114,9 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 
 ### Communities
 
-- [now](https://spectrum.chat/now) - now on spectrum
-- [hyper](https://spectrum.chat/hyper) - hyper on spectrum
-- [pkg](https://spectrum.chat/pkg) - pkg on spectrum
+- [now](https://spectrum.chat/zeit/now) - now on spectrum
+- [hyper](https://spectrum.chat/zeit/hyper) - hyper on spectrum
+- [pkg](https://spectrum.chat/zeit/pkg) - pkg on spectrum
 - [next.js](https://spectrum.chat/next-js) - next.js on spectrum
 - [ZEIT](https://spectrum.chat/zeit) - ZEIT on spectrum
 

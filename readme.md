@@ -41,7 +41,6 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 
 - [cors](https://cors.now.sh) - [📖](https://github.com/hemanth/cors-now) - Reverse proxy with CORS headers.
 - [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) - Simple echo web-socket.
-- [app/api](https://app.l3.wtf) - [📖](https://github.com/mbilokonsky/now-service-example) - A (comically) simple app consisting of two `now` deployments, a front-end static html file and a `micro` api it hits.
 - [micro-link](https://micro-link.now.sh) - [📖](https://github.com/xkawi/micro-link) - A minimalistic microservice to generate and resolve sharable dynamic link (a.k.a deeplink).
 - [image-upload](https://getexponent.com/@community/image-upload-example) - [📖](https://github.com/exponentjs/image-upload-example) - Demonstration of how to upload images from the ImagePicker.
 

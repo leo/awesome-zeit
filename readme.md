@@ -109,6 +109,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [iss.now.sh](https://iss.now.sh) - Service to receive push notifications when the ISS passes above you
 - [circleci-artifacts.now.sh](https://circleci-artifacts.now.sh/) - Permanent link for redirecting to your latest CircleCI build artifacts, so you could host binaries, documentation and other files right from your project's Circle CI jobs.
 - [whatdoyouhear.now.sh](https://whatdoyouhear.now.sh) - Yanny or Laurel?
+- [ipinfo.now.sh](https://github.com/GitSquared/ipapi) - Fast & reliable geoip API powered by Now.
 
 ### Related Lists
 

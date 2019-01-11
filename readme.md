@@ -76,7 +76,6 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [illustrated-algorithms.now.sh](https://illustrated-algorithms.now.sh/) - This project aims to reveal the mechanics behind algorithms via interactive visualizations of their execution.
 - [next-news.now.sh](https://next-news.now.sh/) - Hacker News made with next.js
 - [login-with.now.sh](https://login-with.now.sh/) - Stateless authentication microservice for Twitter, Facebook, Reddit, Google & GitHub
-- [color.now.sh](https://color.now.sh/) - Color API. A simple micro-service for color functions
 - [colors.now.sh](https://colors.now.sh/) - A Material Design color browser and picker
 - [snippets.now.sh](https://snippets.now.sh/) - Sublime Text, Atom & VS Code snippet generator
 - [programmersclipboard.now.sh](https://programmersclipboard.now.sh/) - Copy & paste common glyphs used in programming

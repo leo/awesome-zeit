@@ -47,6 +47,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 
 ### Boilerplates
 
+- [graphql-fullstack](https://github.com/kunalgorithm/graphql-fullstack) - Deploy a fullstack web application with cutting-edge tooling 💪⚡️ e.g. https://graphql-fullstack.now.sh
 - [micro-rest](https://github.com/hyperfuse/micro-rest) - Easily deploy micro REST services.
 - [datasette](https://github.com/simonw/datasette) - Instantly deploy a SQLite database as a JSON API, e.g. https://australian-dogs.now.sh/
 - [now-go](https://github.com/amio/now-go) - Create & Deploy a personal tinyurl service in 1 minute.

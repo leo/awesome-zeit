@@ -112,6 +112,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [ipinfo.now.sh](https://github.com/GitSquared/ipapi) - Fast & reliable geoip API powered by Now.
 - [bashplate.now.sh](https://bashplate.now.sh) - Bash Plate lets you generate boilerplate for shell scripts that takes care of receiving, parsing, validating and documenting script arguments.
 - [icon.now.sh](https://icon.now.sh) - SVG icon placeholder microservice.
+- [github-contributions.now.sh](https://github-contributions.now.sh) - :octocat: GitHub Contributions Chart Generator
 
 ### Related Lists
 

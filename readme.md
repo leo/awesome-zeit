@@ -25,6 +25,7 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-ab](https://github.com/sergiodxa/now-ab) - AB test two or more Now deployments with a simple deploy.
 - [now-server](https://github.com/markmarijnissen/now-server) - Local development server for alias path.
 - [now-token](https://github.com/shawnbot/now-token) - Painlessly access your ZEIT API access token from Node or the command line.
+- [zeit-now-node-server](https://github.com/ctrlplusb/zeit-now-node-server) - Create Node Server instances of your Zeit `@now/node` lambdas in order to test them.
 
 ### Libraries
 

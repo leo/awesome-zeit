@@ -22,7 +22,6 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-redirect](https://github.com/vdanchenkov/now-redirect) - Easily deploy a redirect like `www.domain.com` to `domain.com`.
 - [zeit-deployments](https://github.com/pranaygp/zeit-deployments) - Deploy a tiny next.js app to now that lists all your now deployments.
 - [now-env](https://github.com/sergiodxa/now-env) - Use now.json environment variables and secrets in development.
-- [timneutkens/now-redirect](https://github.com/timneutkens/now-redirect) - Easily deploy a redirect microservice.
 - [now-ab](https://github.com/sergiodxa/now-ab) - AB test two or more Now deployments with a simple deploy.
 - [now-server](https://github.com/markmarijnissen/now-server) - Local development server for alias path.
 - [now-token](https://github.com/shawnbot/now-token) - Painlessly access your ZEIT API access token from Node or the command line.
@@ -36,11 +35,9 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [deploy.now.sh](https://deploy.now.sh) - Deploy git repos to now with the click of a button.
 - [stage.now.sh](https://stage.now.sh) - Automatically create staging environments from GitHub pull request.
 - [pullmeapp](https://github.com/ricardocasares/pullmeapp) - Stage your GitHub pull requests with personalized aliases.
-- [mobile.now.sh](https://mobile.now.sh) - A mobile client for ZEIT's Now platform.
 
 ### Deployment Examples
 
-- [cors](https://cors.now.sh) - [📖](https://github.com/hemanth/cors-now) - Reverse proxy with CORS headers.
 - [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) - Simple echo web-socket.
 - [micro-link](https://micro-link.now.sh) - [📖](https://github.com/xkawi/micro-link) - A minimalistic microservice to generate and resolve sharable dynamic link (a.k.a deeplink).
 - [image-upload](https://getexponent.com/@community/image-upload-example) - [📖](https://github.com/exponentjs/image-upload-example) - Demonstration of how to upload images from the ImagePicker.
@@ -75,10 +72,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 
 - [illustrated-algorithms.now.sh](https://illustrated-algorithms.now.sh/) - This project aims to reveal the mechanics behind algorithms via interactive visualizations of their execution.
 - [next-news.now.sh](https://next-news.now.sh/) - Hacker News made with next.js
-- [login-with.now.sh](https://login-with.now.sh/) - Stateless authentication microservice for Twitter, Facebook, Reddit, Google & GitHub
 - [colors.now.sh](https://colors.now.sh/) - A Material Design color browser and picker
-- [snippets.now.sh](https://snippets.now.sh/) - Sublime Text, Atom & VS Code snippet generator
-- [programmersclipboard.now.sh](https://programmersclipboard.now.sh/) - Copy & paste common glyphs used in programming
 - [rainbow.now.sh](https://rainbow.now.sh) - A Material Design and Flat Design colour picker
 - [xvg.now.sh](https://xvg.now.sh/) - A Chrome extension for debugging SVG paths
 - [newton.now.sh](https://newton.now.sh/) - A really micro micro-service for advanced math
@@ -99,7 +93,6 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [micro-medium-api.now.sh](https://micro-medium-api.now.sh/) - [📖](https://github.com/evenchange4/micro-medium-api) - Microservice for fetching the latest posts of Medium.
 - [now-swift-example.now.sh](https://now-swift-example.now.sh/) - [📖](https://github.com/aranajhonny/now-swift-example) - Example of using server-side Swift + the Kitura framework inside a Docker container deployed to now.sh.
 - [builderbook.org](https://builderbook.org/) - [📖](https://github.com/builderbook/builderbook) - Open source web app to write and host documentation or sell books. Deployed with Now and built with React, Material-UI, Next, Express, Mongoose, MongoDB.
-- [flash.now.sh](https://flash.now.sh/) - A minimal speed reading web app
 - [pompom.now.sh](https://pompom.now.sh/) - [📖](https://github.com/pantharshit00/pomodoro-gatsby) - Open source pomodoro clock made with React and Gatsby. Super fast, mobile friendly, dark themed, and works offline. Also has completion notification and alarm
 - [kap-now](https://github.com/lucaperret/kap-now) - Deploy a [Kapture](https://github.com/wulkano/kap) with Now.
 - [drone-now](https://github.com/lucaperret/drone-now) - Deploying to Now within [Drone CI](https://drone.io) pipeline.

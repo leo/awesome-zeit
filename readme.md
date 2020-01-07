@@ -106,6 +106,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [bashplate.now.sh](https://bashplate.now.sh) - Bash Plate lets you generate boilerplate for shell scripts that takes care of receiving, parsing, validating and documenting script arguments.
 - [icon.now.sh](https://icon.now.sh) - SVG icon placeholder microservice.
 - [github-contributions.now.sh](https://github-contributions.now.sh) - :octocat: GitHub Contributions Chart Generator
+- [github-trending-api.now.sh](https://github-trending-api.now.sh/) - [📖](https://github.com/huchenme/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
 
 ### Related Lists
 

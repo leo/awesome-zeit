@@ -49,6 +49,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [now-go](https://github.com/amio/now-go) - Create & Deploy a personal tinyurl service in 1 minute.
 - [create-react-app-now](https://github.com/xkawi/create-react-app-now) - Easily deploy react.js applications with now.
 - [micro-graphql](https://github.com/hyperfuse/micro-graphql) - Easily deploy micro GraphQL services. For an example of using GraphQL with Micro see [micro-graphql-example](https://www.github.com/timneutkens/micro-graphql)
+- [now-apollo-starter](https://github.com/justanotherstarter/now-apollo-starter) - A starter for resilient GraphQL APIs using [Apollo](https://www.apollographql.com/) server and Zeit Now.
 - [create-micro](https://github.com/romuloalves/create-micro) - Create a basic micro-based service.
 - [meteor-now](https://github.com/mazlix/meteor-now) - Deploy MeteorJS apps in one line through now.
 - [nuxt-micro-template](https://github.com/vuchl/nuxt-micro-template) - Scaffold for vue-cli to create [nuxt](https://github.com/nuxt/nuxt.js) apps with a [micro](https://github.com/zeit/micro) backend

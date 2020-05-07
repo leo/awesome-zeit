@@ -1,8 +1,8 @@
-# Awesome ZEIT
+# Awesome Vercel (Previously ZEIT )
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-In the area of open source, there's a lot of stuff happening around [ZEIT](https://zeit.co). To make it easier for developers to reach these resources, I've decided to create a list for them. And here we are!
+In the area of open source, there's a lot of stuff happening around [Vercel](https://vercel.com). To make it easier for developers to reach these resources, I've decided to create a list for them. And here we are!
 
 - [Helpers](#helpers)
 - [Libraries](#libraries)
@@ -20,11 +20,11 @@ In the area of open source, there's a lot of stuff happening around [ZEIT](https
 - [now-no-alias](https://github.com/remy/now-no-alias) - CLI tool for now to list idle deploys (with no active aliases).
 - [now-pipeline](https://github.com/bahmutov/now-pipeline) - Single command to deploy, run e2e tests and switch alias if tests pass.
 - [now-redirect](https://github.com/vdanchenkov/now-redirect) - Easily deploy a redirect like `www.domain.com` to `domain.com`.
-- [zeit-deployments](https://github.com/pranaygp/zeit-deployments) - Deploy a tiny next.js app to now that lists all your now deployments.
+- [zeit-deployments](https://github.com/pranaygp/zeit-deployments) - *deprecated* - Deploy a tiny next.js app to now that lists all your now deployments.
 - [now-env](https://github.com/sergiodxa/now-env) - Use now.json environment variables and secrets in development.
 - [now-ab](https://github.com/sergiodxa/now-ab) - AB test two or more Now deployments with a simple deploy.
 - [now-server](https://github.com/markmarijnissen/now-server) - Local development server for alias path.
-- [now-token](https://github.com/shawnbot/now-token) - Painlessly access your ZEIT API access token from Node or the command line.
+- [now-token](https://github.com/shawnbot/now-token) - Painlessly access your Vercel API access token from Node or the command line.
 
 ### Libraries
 
@@ -53,19 +53,19 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [meteor-now](https://github.com/mazlix/meteor-now) - Deploy MeteorJS apps in one line through now.
 - [nuxt-micro-template](https://github.com/vuchl/nuxt-micro-template) - Scaffold for vue-cli to create [nuxt](https://github.com/nuxt/nuxt.js) apps with a [micro](https://github.com/zeit/micro) backend
 - [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) - [micro](https://github.com/zeit/micro) starter kit with built in authentication using `bcrypt` and `jsonwebtokens`
-- [aframe-next-static](https://github.com/michaltakac/aframe-next-static) - Build WebVR apps with A-frame and React, export and serve them as static sites on ZEIT's Now.
+- [aframe-next-static](https://github.com/michaltakac/aframe-next-static) - Build WebVR apps with A-frame and React, export and serve them as static sites on vercel's Now.
 - [next-init](https://www.npmjs.com/package/next-init) - Simplest next.js generator.
 - [next.js-typescript-starter-kit](https://github.com/deptno/next.js-typescript-starter-kit) - next.js@5 + redux + typescript, simple configuration for SEO, analytics. you can use styled-jsx in tsx.
 
 ### API Clients
 
-- [now-client](https://github.com/zeit/now-client) - *deprecated* - ZEIT's JavaScript client for their API.
-- [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your ZEIT account.
-- [now-fetch](https://github.com/shawnbot/now-fetch) - A lightweight ZEIT API wrapper with the familiar `fetch()` interface.
-- [pynow](https://github.com/controversial/pynow) - A python client for the ZEIT API.
+- [now-client](https://github.com/zeit/now-client) - *deprecated* - Vercel's JavaScript client for their API.
+- [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your Vercel account.
+- [now-fetch](https://github.com/shawnbot/now-fetch) - A lightweight Vercel API wrapper with the familiar `fetch()` interface.
+- [pynow](https://github.com/controversial/pynow) - A python client for the Vercel API.
 - [nash](https://github.com/littleStudent/now_dashboard) - A web [dashboard](https://nash.now.sh) to manage deployments, aliases and secrets.
-- [now4j](https://github.com/rm3l/now4j) - Unofficial Java client for the ZEIT API
-- [know](https://github.com/rm3l/know) - Unofficial Kotlin client for the ZEIT API
+- [now4j](https://github.com/rm3l/now4j) - Unofficial Java client for the Vercel API
+- [know](https://github.com/rm3l/know) - Unofficial Kotlin client for the Vercel API
 - [now-php-client](https://github.com/joecohens/now-php-client) - Unofficial PHP 5.4+ client for the Now API
 
 ### Now Showcase
@@ -86,7 +86,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [f.now.sh](https://f.now.sh/) - A microservice for getting a flag icon by country code
 - [gif.now.sh](https://gif.now.sh) - A simple micro-service for Giphy's Translate API
 - [emails.now.sh](https://emails.now.sh) - Easily deploy an email delivery service to now
-- [next-time.now.sh](https://next-time.now.sh) ([src](https://github.com/billymoon/next-time)) - A very minimal zeit themed clock (demonstrates isomorphic page rendering)
+- [next-time.now.sh](https://next-time.now.sh) ([src](https://github.com/billymoon/next-time)) - A very minimal Vercel themed clock (demonstrates isomorphic page rendering)
 - [georgeo.now.sh](https://github.com/rmpato/georgeo) - A geocoding service with an API and a [web interface](https://georgeo.now.sh)
 - [platzi-now.now.sh](https://platzi-now.now.sh/) - A Next.js + Docker GraphQL server app deployed to Now.sh using alias path to compose them
 - [micro-github-latest.now.sh](https://micro-github-latest.now.sh/) - [📖](https://github.com/evenchange4/micro-github-latest) - Microservice for downloading the latest asset of GitHub release.
@@ -112,12 +112,7 @@ Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - Delightful Hyper plugins, themes, and resources.
 
 ### Communities
-
-- [now](https://spectrum.chat/zeit/now) - now on spectrum
-- [hyper](https://spectrum.chat/zeit/hyper) - hyper on spectrum
-- [pkg](https://spectrum.chat/zeit/pkg) - pkg on spectrum
-- [next.js](https://spectrum.chat/next-js) - next.js on spectrum
-- [ZEIT](https://spectrum.chat/zeit) - ZEIT on spectrum
+- [Vercel](https://github.com/zeit/now/discussions) - Vercel on github
 
 ## Contribute
 
